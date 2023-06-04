@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/LoginController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/AddMusicController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/AddCategoryController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/daos/UserDAOImpl.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/Main.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/views/RegisterView.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/RegisterController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/views/ListeningMusicView.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/ListeningMusicController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/daos/UserDAO.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/models/User.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/ListCategoryController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/views/AddMusicView.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/controllers/MenuController.java</file>
+            <file>file:/home/cuongpham/Desktop/ExternalProject/AppMusic/src/appmusic/daos/MySQLConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
